@@ -1,1 +1,3 @@
 # Data Science Studies
+
+This repository has many studies in different areas of Data Science that can be used for learning and practicing simple and complexes techniques. Most of the notebooks was created in Google Colaboratory, so the datasets used are sourced by sklearn library and Kaggle (being need to connect to Kaggle API to download them). Feel free to download the notebooks and to contibute with new ones.
